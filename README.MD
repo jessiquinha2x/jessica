@@ -1,34 +1,4 @@
 
-
-  <!-- Link de pular para o conteúdo -->
-  <a class="skip-link" href="#conteudo-principal">Ir direto para o conteúdo</a>
-
-  <!-- Barra de acessibilidade -->
-  <div class="acessibilidade-bar" role="region" aria-label="Barra de acessibilidade">
-    <button id="btnMenuAcess" class="btn btn-dark btn-sm"
-            aria-haspopup="dialog"
-            aria-controls="menuAcess"
-            aria-expanded="false">
-      Menu de acessibilidade
-    </button>
-  </div>
-
-  <!-- Menu de acessibilidade (dialog) -->
-  <div id="menuAcess"
-       class="menu-acessibilidade"
-       role="dialog"
-       aria-modal="true"
-       aria-labelledby="titleMenuAcess"
-       aria-describedby="descMenuAcess"
-       hidden>
-    <div class="menu-acessibilidade__content" role="document">
-      <div class="d-flex justify-content-between align-items-start">
-        <div>
-          <h2 id="titleMenuAcess" class="h5 mb-1">Ajustes de acessibilidade</h2>
-          <p id="descMenuAcess" class="small mb-3">Use as opções abaixo para personalizar a leitura.</p>
-        </div>
-        <button id="btnFecharMenu" class="btn btn-outline-secondary btn-sm" aria-label="Fechar menu de acessibilidade">
-          Fechar
         </button>
       </div>
 
