@@ -170,35 +170,4 @@
                    class="card-img-top"
                    alt="Sasuke Uchiha com expressão séria e cabelo preto."
                    width="480" height="640" loading="lazy">
-              <div class="card-body">
-                <h3 id="card-sasuke-title" class="h5 card-title">Sasuke Uchiha</h3>
-                <p class="card-text">Gênio do clã Uchiha, dividido entre vingança e busca por significado.</p>
-              </div>
-            </div>
-          </article>
-
-          <article class="col-md-4" role="article" aria-labelledby="card-sakura-title" tabindex="0" data-sr="zoom-in" data-sr-delay="200">
-            <div class="card h-100">
-              <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Sakura_Haruno.png"
-                   class="card-img-top"
-                   alt="Sakura Haruno com cabelo rosa, expressão determinada."
-                   width="480" height="640" loading="lazy">
-              <div class="card-body">
-                <h3 id="card-sakura-title" class="h5 card-title">Sakura Haruno</h3>
-                <p class="card-text">Disciplina e força. Evolui como ninja médica e pilar emocional do time.</p>
-              </div>
-            </div>
-          </article>
-        </div>
-      </div>
-    </section>
-
-    <!-- Linha do tempo -->
-    <section id="linha-do-tempo" class="py-5" aria-labelledby="titulo-linha">
-      <div class="container">
-        <h2 id="titulo-linha" class="h3 fw-bold mb-4">Linha do tempo</h2>
-        <div class="timeline" role="list">
-          <div class="timeline-item" role="listitem" data-sr="fade-left">
-            <div class="timeline-dot" aria-hidden="true"></div>
-            <div class="timeline-content">
-              <h3 class="h6 fw-bold mb-1">Infância e academia ninja</h3>
+              <div cl
