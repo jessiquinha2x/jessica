@@ -1,17 +1,4 @@
 
-
-        <div class="col-12 col-md-6">
-          <div class="d-grid gap-2">
-            <button class="btn btn-warning" id="toggleContraste" aria-pressed="false">Alto contraste</button>
-            <button class="btn btn-warning" id="toggleLinks" aria-pressed="false">Destacar links</button>
-            <button class="btn btn-warning" id="toggleAnimacoes" aria-pressed="false">Pausar animações</button>
-          </div>
-        </div>
-      </div>
-
-      <hr class="my-3" />
-      <div class="d-flex gap-2">
-        <button class="btn btn-outline-danger" id="resetTudo">Restaurar padrão</button>
       </div>
     </div>
   </div>
