@@ -1,15 +1,4 @@
 
-        </button>
-      </div>
-
-      <div class="row g-2">
-        <div class="col-12 col-md-6">
-          <div class="d-grid gap-2">
-            <button class="btn btn-primary" id="aumentarFonte">Aumentar fonte</button>
-            <button class="btn btn-primary" id="diminuirFonte">Diminuir fonte</button>
-            <button class="btn btn-outline-primary" id="resetFonte">Resetar fonte</button>
-          </div>
-        </div>
 
         <div class="col-12 col-md-6">
           <div class="d-grid gap-2">
