@@ -52,46 +52,4 @@
       </div>
     </section>
 
-    <hr class="my-0" />
 
-    <!-- Sobre -->
-    <section id="sobre" class="py-5" aria-labelledby="titulo-sobre">
-      <div class="container">
-        <h2 id="titulo-sobre" class="h3 fw-bold mb-3">Sobre Naruto</h2>
-        <p data-sr="fade-up">
-          Naruto é uma série de mangá e anime que acompanha Naruto Uzumaki, um jovem ninja
-          que sonha em se tornar Hokage, o líder de sua vila. A narrativa explora temas como
-          pertencimento, resiliência e o impacto dos laços humanos.
-        </p>
-        <p data-sr="fade-up" data-sr-delay="100">
-          Ao longo da história, Naruto enfrenta desafios internos e externos, buscando quebrar
-          ciclos de ódio e provar que reconhecimento nasce de escolhas e atitudes.
-        </p>
-      </div>
-    </section>
-
-    <!-- Personagens -->
-    <section id="personagens" class="py-5 bg-body-tertiary" aria-labelledby="titulo-personagens">
-      <div class="container">
-        <h2 id="titulo-personagens" class="h3 fw-bold mb-4">Personagens principais</h2>
-        <div class="row g-4">
-          <article class="col-md-4" role="article" aria-labelledby="card-naruto-title" tabindex="0" data-sr="zoom-in">
-            <div class="card h-100">
-              <img src="https://upload.wikimedia.org/wikipedia/en/7/76/Naruto_Uzumaki.png"
-                   class="card-img-top"
-                   alt="Naruto Uzumaki sorrindo, usando bandana da Vila da Folha."
-                   width="480" height="640" loading="lazy">
-              <div class="card-body">
-                <h3 id="card-naruto-title" class="h5 card-title">Naruto Uzumaki</h3>
-                <p class="card-text">Energia inesgotável e empatia. Sonha em se tornar Hokage e proteger seus amigos.</p>
-              </div>
-            </div>
-          </article>
-
-          <article class="col-md-4" role="article" aria-labelledby="card-sasuke-title" tabindex="0" data-sr="zoom-in" data-sr-delay="100">
-            <div class="card h-100">
-              <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Sasuke_Uchiha.png"
-                   class="card-img-top"
-                   alt="Sasuke Uchiha com expressão séria e cabelo preto."
-                   width="480" height="640" loading="lazy">
-              <div cl
